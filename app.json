@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "MoneyFlow-App",
-    "slug": "MoneyFlow-App",
+    "name": "Leeris",
+    "slug": "leeris",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/LittleKing.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -17,9 +17,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/LittleKing.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.scaptor.leeris"
     },
     "web": {
       "favicon": "./assets/favicon.png"
